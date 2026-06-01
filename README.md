@@ -1,6 +1,7 @@
 南京大学2022级计算机科学与技术毕业论文
 
-对于ApiDemos以及My Demo App进行自动化测试
+手机APP测试以及自动化 - Mobile App Testing and Automation
+通过Appium和Selenium同居Page Object Model模式对于ApiDemos以及My Demo App进行自动化测试
 
 测试对象 apkFile
 1. ApiDemos
